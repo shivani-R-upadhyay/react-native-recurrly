@@ -25,6 +25,9 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+    "router": {
+      "typedRoutes": false
+    },
     "plugins": [
       "expo-router",
       [
@@ -46,3 +49,4 @@
     }
   }
 }
+
